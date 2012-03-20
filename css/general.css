@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+html {
+	background: #7d7467 url('../images/bg.jpg') repeat; }
+	
+body {
+	margin: 10px auto;
+	padding: 20px;
+	
+	background: #000 url('http://static.freepik.com/free-photo/white-background-movie-corn-food_343836.jpg') no-repeat bottom center; 
+	
+	color: #827c6a;
+	font-family: calibri, arial, sans-serif;
+	font-size: 0.95em;
+	
+	width: 363px;
+	height: 720px;
+	
+	box-shadow: rgba(0,0,0,0.2) 3px 2px 2px;
+	
+	border-radius: 7px; }
+	
+a,
+a:link,
+a:visited {
+	color: #ffe8a8;
+	font-family: calibri, arial, sans-serif; 
+	text-decoration: none; 
+	font-size: 0.90em;
+	border-bottom: 1px solid #56534a; }
+	
+a:hover,
+a:focus,
+a:active {
+	color: #7d7467;
+	font-family: calibri, arial, sans-serif; 
+	font-size: 0.90em;
+	text-decoration: none; 
+	border-bottom: 1px solid #827c6a; }
+
+li {
+	color: #827c6a; }
+	
+.movie-title {
+	width: 300px; }
+
+.delete {
+	margin-left: 15px;
+	width: 100px; }
+
+.item {
+	margin-bottom: 15px; }
+
+h1 {
+	color: #fff;
+	margin-left: 10px; }
+	
+.back {
+	width: 100%;
+
+	text-align: right; }
